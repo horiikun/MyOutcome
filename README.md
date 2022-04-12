@@ -25,6 +25,8 @@
 ### **value_check.py**
 　実装した評価関数を利用し，ゲームをするためのプログラムです．
  
+ ## 以下の画像は本研究で生成した学習モデルの正答率です．上の正答率は学習用データ，下の正答率は学習用データとは別に作成したテスト用データの正答率です．
+ 
  ![正答率1](https://user-images.githubusercontent.com/32561912/162889564-fc568dde-78a9-4b47-802f-c1eb8d1f613a.PNG)
  
  ![検証データ正答率](https://user-images.githubusercontent.com/32561912/162889703-494307ae-690c-4e8c-954e-520a91f86bae.JPG)
